@@ -1,0 +1,32 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "lib": [
+      "esNext",
+      "dom"
+    ],
+    "moduleResolution": "node",
+    "noEmit": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "module": "esnext",
+    "target": "esNext",
+    "forceConsistentCasingInFileNames": true,
+    "strict": false,
+    "experimentalDecorators": true,
+    "baseUrl": "./",
+    "noErrorTruncation": true,
+    "allowJs": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+  },
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
